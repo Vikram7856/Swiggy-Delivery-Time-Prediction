@@ -4,12 +4,12 @@ Welcome to the **Swiggy Delivery Time Prediction** project — a machine learnin
 
 ## 📌 Project Highlights
 
-- 🔮 Predict delivery time using ML models trained on preprocessed data
-- 🧠 Built with `scikit-learn`, `Streamlit`, `Optuna`, and `MLflow`
-- 📊 Includes custom preprocessing pipelines: encoding, imputation, scaling
-- 🌐 Deployable interactive web app for real-time inputs and prediction
-- 📁 Artifacts tracked with MLflow and available on DAGsHub
-- 🗂️ Data & model files hosted on Google Drive for transparency and reproducibility
+- Predict delivery time using ML models trained on preprocessed data
+- Built with `scikit-learn`, `Streamlit`, `Optuna`, and `MLflow`
+- Includes custom preprocessing pipelines: encoding, imputation, scaling
+- Deployable interactive web app for real-time inputs and prediction
+- Artifacts tracked with MLflow and available on DAGsHub
+- Data & model files hosted on Google Drive for transparency and reproducibility
 
 ---
 
