@@ -1,8 +1,12 @@
 #  Swiggy Delivery Time Prediction
 
-Welcome to the **Delivery Time Prediction Site** — a data-driven web application designed to enhance last-mile logistics by accurately estimating food delivery times.
+This project helps predict how long a food delivery might take, using real data from Swiggy orders.
 
-This platform leverages real-world Swiggy delivery data, enriched with custom preprocessing pipelines and advanced machine learning models.
+It looks at things like the type of order, traffic, weather, and delivery vehicle to make smart predictions using machine learning.
+
+The goal is to make last-mile delivery faster and more accurate.
+
+You can explore the code, check how the model works, and run the Streamlit app on your own computer to test different delivery situations.
 
 ---
 
