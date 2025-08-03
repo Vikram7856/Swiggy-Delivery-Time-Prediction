@@ -10,7 +10,7 @@ This app uses real Swiggy delivery data along with custom data processing and ma
 
  Use the sidebar in the app to input delivery details and get real-time predictions!
 
-## 🖼️ App Preview
+## App Preview
 
 Here are some screenshots of the Streamlit web application in action:
 
