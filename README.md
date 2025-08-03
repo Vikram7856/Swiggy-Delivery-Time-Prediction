@@ -1,4 +1,4 @@
-# 🚀 Swiggy Delivery Time Prediction
+#  Swiggy Delivery Time Prediction
 
 Welcome to the **Delivery Time Prediction Site** — a data-driven web application designed to enhance last-mile logistics by accurately estimating food delivery times.
 
@@ -6,7 +6,7 @@ This platform leverages real-world Swiggy delivery data, enriched with custom pr
 
 ---
 
-## 📊 Dataset Summary
+##  Dataset Summary
 
 - **Records:** 45,073
 - **Features:** 19
@@ -18,13 +18,7 @@ This platform leverages real-world Swiggy delivery data, enriched with custom pr
 
 ---
 
-## 🎯 Project Goal
-
-Allow users to **interactively input delivery parameters** and receive **intelligent time predictions** based on trained machine learning models.
-
----
-
-## 🧠 Tech Stack
+##  Tech Stack
 
 - **Languages & Libraries**: Python, Scikit-learn, Pandas
 - **Web Framework**: Streamlit
@@ -34,17 +28,6 @@ Allow users to **interactively input delivery parameters** and receive **intelli
   - Imputation
   - Encoding
   - Scaling
-
----
-
-## 📌 Project Highlights
-
-- Predict delivery time using ML models trained on preprocessed data
-- Built with `scikit-learn`, `Streamlit`, `Optuna`, and `MLflow`
-- Includes custom preprocessing pipelines: encoding, imputation, scaling
-- Deployable interactive web app for real-time inputs and prediction
-- Artifacts tracked with MLflow and available on DAGsHub
-- Data & model files hosted on Google Drive for transparency and reproducibility
 
 ---
 
