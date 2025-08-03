@@ -2,7 +2,7 @@
 
 This project helps predict how long a food delivery might take, using real data from Swiggy orders.
 
-It looks at things like the type of order, traffic, weather, and delivery vehicle to make smart predictions using machine learning.
+It looks at things like the type of order, traffic, weather, and delivery vehicle etc, to make smart predictions using machine learning.
 
 The goal is to make last-mile delivery faster and more accurate.
 
