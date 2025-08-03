@@ -39,3 +39,22 @@ You can explore the code, check how the model works, and run the Streamlit app o
 
 - 📊 [DAGsHub MLflow Dashboard](https://dagshub.com/vkyadav7635/Swiggy-Delivery-Time-Prediction.mlflow)
 - 🗂️ [Google Drive (Data & Artifacts)](https://drive.google.com/drive/folders/1amTEFs91NO_icdShALPP7RNdAg5ZMk35)
+---
+
+  ## App Preview
+
+Here are some screenshots of the Streamlit web application in action:
+
+### Home Page
+
+![Home Page 1](Streamlit_home_page-0001.jpg)
+![Home Page 2](Streamlit_home_page-0002.jpg)
+![Home Page 3](Streamlit_home_page-0003.jpg)
+
+### App Pages
+
+![App Page 1](Streamlit_app_page-0001.jpg)
+![App Page 2](Streamlit_app_page-0002.jpg)
+![App Page 3](Streamlit_app_page-0003.jpg)
+![App Page 4](Streamlit_app_page-0004.jpg)
+
