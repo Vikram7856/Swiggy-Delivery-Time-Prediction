@@ -7,3 +7,5 @@ This directory contains trained machine learning models, serialized files (like 
 - `model.pkl`: Final trained model used in production
 - `baseline_model.pkl`: Initial baseline model
 - `model_experiments/`: Folder for storing different versions or experiments
+
+  ![Pipeline Diagram](pipeline.png)
