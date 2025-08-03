@@ -1,6 +1,41 @@
 # 🚀 Swiggy Delivery Time Prediction
 
-Welcome to the **Swiggy Delivery Time Prediction** project — a machine learning-driven platform that estimates the delivery time for food orders placed on services like Swiggy. This project leverages real-world delivery data to model logistics behavior and provide accurate time predictions based on various factors like traffic, weather, vehicle condition, and more.
+Welcome to the **Delivery Time Prediction Site** — a data-driven web application designed to enhance last-mile logistics by accurately estimating food delivery times.
+
+This platform leverages real-world Swiggy delivery data, enriched with custom preprocessing pipelines and advanced machine learning models.
+
+---
+
+## 📊 Dataset Summary
+
+- **Records:** 45,073
+- **Features:** 19
+
+### Includes Information On:
+- 📦 **Order Context**: `type_of_order`, `order_time_of_day`, `distance`, `ratings`
+- 🌦️ **Environment**: `weather`, `traffic`, `festival`, `city_type`, `is_weekend`
+- 🛵 **Logistics**: `type_of_vehicle`, `vehicle_condition`, `multiple_deliveries`, `pickup_time`
+
+---
+
+## 🎯 Project Goal
+
+Allow users to **interactively input delivery parameters** and receive **intelligent time predictions** based on trained machine learning models.
+
+---
+
+## 🧠 Tech Stack
+
+- **Languages & Libraries**: Python, Scikit-learn, Pandas
+- **Web Framework**: Streamlit
+- **Model Management**: MLflow, Optuna
+- **Serialization**: Pickle
+- **Custom Preprocessing Pipelines**:
+  - Imputation
+  - Encoding
+  - Scaling
+
+---
 
 ## 📌 Project Highlights
 
