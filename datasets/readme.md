@@ -6,7 +6,7 @@ The data is based on real-world Swiggy delivery records and includes features su
 
 ## Cities Data Visualization
 
-Below is a visualization of the geographic distribution of the data:
+Below is a visualization of the geographic distribution of cites from the dataset:
 
 ![Cities Data](cities_data.png)
 
