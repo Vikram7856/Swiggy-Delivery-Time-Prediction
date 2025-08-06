@@ -122,19 +122,20 @@ Raw Data → Feature Engineering → Model Training → Hyperparameter Tuning �
 | 🔄 Pipeline Diagram | Architecture overview | `models/pipeline.png` |
 
 ---
-###  **Application Screenshots**
+## Application Screenshots
 
-#### **Landing Page Experience**
+Here are some screenshots of the Streamlit web application in action:
 
-  <img src="Streamlit_home_page-0001.jpg" width="300" alt="Home Page 1"/>
-  <img src="Streamlit_home_page-0002.jpg" width="300" alt="Home Page 2"/>
-  <img src="Streamlit_home_page-0003.jpg" width="300" alt="Home Page 3"/>
+### Home Page
 
+![Home Page 1](Streamlit_home_page-0001.jpg)
+![Home Page 2](Streamlit_home_page-0002.jpg)
+![Home Page 3](Streamlit_home_page-0003.jpg)
 
-#### **Prediction Interface**
+### Prediction Interface
 
-  <img src="Streamlit_app_page-0001.jpg" width="250" alt="App Interface 1"/>
-  <img src="Streamlit_app_page-0002.jpg" width="250" alt="App Interface 2"/>
-  <img src="Streamlit_app_page-0003.jpg" width="250" alt="App Interface 3"/>
-  <img src="Streamlit_app_page-0004.jpg" width="250" alt="App Interface 4"/>
+![App Page 1](Streamlit_app_page-0001.jpg)
+![App Page 2](Streamlit_app_page-0002.jpg)
+![App Page 3](Streamlit_app_page-0003.jpg)
+![App Page 4](Streamlit_app_page-0004.jpg)
 
