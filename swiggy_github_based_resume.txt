@@ -1,0 +1,8 @@
+Swiggy Delivery Time Prediction | ML Project
+
+• Built regression model predicting food delivery times using Python, XGBoost & Random Forest with 82% R² score
+• Analyzed delivery data (restaurant location, distance, weather, traffic density, delivery person ratings) using feature engineering
+• Deployed Streamlit web application for real-time delivery time predictions with interactive user interface
+• Processed historical delivery records, handled missing data, and optimized model performance through hyperparameter tuning
+
+Skills: Python, XGBoost, Scikit-learn, Streamlit, Feature Engineering, Regression Analysis
