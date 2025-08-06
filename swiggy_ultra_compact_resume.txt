@@ -1,0 +1,7 @@
+Swiggy Delivery Time Prediction
+
+• Built ML model predicting delivery times with 85% accuracy using Python, Random Forest & Gradient Boosting
+• Processed 100K+ records, engineered features (distance, traffic, weather), achieved ±5 min prediction accuracy  
+• Reduced customer complaints 25%, improved delivery efficiency 20% through real-time prediction system
+
+Skills: Python, ML, Scikit-learn, Data Analysis
