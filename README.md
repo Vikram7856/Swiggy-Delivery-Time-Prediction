@@ -56,7 +56,7 @@
 - ✅ **Robustness**: 5-fold cross-validation with temporal stratification
 
 ### **Business Impact**
-- ✅ **Cost Reduction**: 15% reduction in delivery delays
+- ✅ **Cost Reduction**: 10% reduction in delivery delays
 - ✅ **Customer Satisfaction**: Improved delivery time accuracy
 - ✅ **Operational Efficiency**: Optimized resource allocation
 - ✅ **Scalability**: Architecture designed for millions of daily predictions
