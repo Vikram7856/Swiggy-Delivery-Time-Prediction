@@ -16,8 +16,6 @@
 |--------|-------|-------------|
 | **Total Records** | 45,073 | Complete order dataset |
 | **Features** | 19 | Engineered features |
-| **Data Quality** | 98.5% | Post-cleaning accuracy |
-| **Coverage** | Complete | All order scenarios |
 
 ### **Feature Categories (19 Features)**
 
