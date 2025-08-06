@@ -125,16 +125,16 @@ Raw Data → Feature Engineering → Model Training → Hyperparameter Tuning �
 ###  **Application Screenshots**
 
 #### **Landing Page Experience**
-<div align="center">
+
   <img src="Streamlit_home_page-0001.jpg" width="300" alt="Home Page 1"/>
   <img src="Streamlit_home_page-0002.jpg" width="300" alt="Home Page 2"/>
   <img src="Streamlit_home_page-0003.jpg" width="300" alt="Home Page 3"/>
-</div>
+
 
 #### **Prediction Interface**
-<div align="center">
+
   <img src="Streamlit_app_page-0001.jpg" width="250" alt="App Interface 1"/>
   <img src="Streamlit_app_page-0002.jpg" width="250" alt="App Interface 2"/>
   <img src="Streamlit_app_page-0003.jpg" width="250" alt="App Interface 3"/>
   <img src="Streamlit_app_page-0004.jpg" width="250" alt="App Interface 4"/>
-</div>
+
