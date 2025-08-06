@@ -5,7 +5,7 @@
 **Project Type**: End-to-End Machine Learning Solution for Logistics Optimization  
 **Domain**: Food Delivery & Last-Mile Logistics  
 **Scale**: Enterprise-grade solution handling 45,000+ orders  
-**Achievement**: 80%+ prediction accuracy with sub-second latency  
+**Achievement**: 80%+ prediction accuracy
 
 ---
 
