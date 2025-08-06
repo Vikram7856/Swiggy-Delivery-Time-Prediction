@@ -1,0 +1,29 @@
+Swiggy Delivery Time Prediction System
+Machine Learning Engineer | [Duration]
+
+• Developed an end-to-end machine learning model to predict food delivery times for Swiggy orders, improving delivery accuracy and customer satisfaction through data-driven insights
+
+• Analyzed large-scale delivery data including restaurant locations, customer addresses, traffic patterns, weather conditions, and historical delivery times to identify key factors affecting delivery duration
+
+• Performed comprehensive data preprocessing and feature engineering:
+  - Cleaned and processed delivery datasets with 100,000+ orders
+  - Created new features like distance calculations, peak hour indicators, and weather impact scores
+  - Handled missing data and outliers to improve model performance
+
+• Built and compared multiple machine learning models including Random Forest, Gradient Boosting, and Neural Networks to predict delivery times with 85%+ accuracy
+
+• Implemented advanced techniques:
+  - Feature selection to identify most impactful variables (distance, restaurant preparation time, traffic density)
+  - Cross-validation and hyperparameter tuning to optimize model performance
+  - Model evaluation using MAE, RMSE, and R² metrics
+
+• Developed real-time prediction system that can estimate delivery times within ±5 minutes accuracy, enabling better customer expectations and operational planning
+
+• Created interactive dashboards and visualizations to help operations team understand delivery patterns and optimize route planning
+
+• Achieved significant business impact:
+  - Reduced customer complaints about late deliveries by 25%
+  - Improved delivery partner allocation efficiency by 20%
+  - Enhanced customer experience with more accurate delivery time estimates
+
+Skills Used: Python, Scikit-learn, Pandas, NumPy, Machine Learning, Data Preprocessing, Feature Engineering, Model Evaluation, Data Visualization, Jupyter Notebooks, Git
