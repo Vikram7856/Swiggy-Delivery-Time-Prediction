@@ -6,7 +6,7 @@ This directory contains the dataset used for training and evaluating the deliver
 
 ### Feature Categories
 
-#### 📦 Order Context Features
+#### Order Context Features
 | Feature | Type | Description | Example Values |
 |---------|------|-------------|----------------|
 | `type_of_order` | Categorical | Type of food order | Meal, Snack, Drink, Dessert |
@@ -14,7 +14,7 @@ This directory contains the dataset used for training and evaluating the deliver
 | `distance` | Numerical | Delivery distance (km) | 0.5 - 15.0 |
 | `ratings` | Numerical | Restaurant/delivery ratings | 1.0 - 5.0 |
 
-#### 🌦️ Environmental Features
+#### Environmental Features
 | Feature | Type | Description | Example Values |
 |---------|------|-------------|----------------|
 | `weather` | Categorical | Weather conditions | Clear, Cloudy, Rain, Storm |
@@ -23,7 +23,7 @@ This directory contains the dataset used for training and evaluating the deliver
 | `city_type` | Categorical | Urban classification | Metropolitan, Urban, Suburban |
 | `is_weekend` | Binary | Weekend indicator | 0, 1 |
 
-#### 🛵 Logistics Features
+#### Logistics Features
 | Feature | Type | Description | Example Values |
 |---------|------|-------------|----------------|
 | `type_of_vehicle` | Categorical | Delivery vehicle type | Motorcycle, Car, Bicycle |
@@ -31,7 +31,7 @@ This directory contains the dataset used for training and evaluating the deliver
 | `multiple_deliveries` | Binary | Multiple delivery batch | 0, 1 |
 | `pickup_time` | Numerical | Food preparation time (min) | 5 - 45 |
 
-#### 🎯 Target Variable
+#### Target Variable
 | Feature | Type | Description | Range |
 |---------|------|-------------|--------|
 | `delivery_time` | Numerical | Total delivery time (minutes) | 10 - 90 |
