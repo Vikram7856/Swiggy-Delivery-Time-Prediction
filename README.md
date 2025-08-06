@@ -58,11 +58,7 @@ Here are some screenshots of the Streamlit web application in action:
 ![App Page 3](Streamlit_app_page-0003.jpg)
 ![App Page 4](Streamlit_app_page-0004.jpg)
 
-(cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF'
-diff --git a/README.md b/README.md
---- a/README.md
-+++ b/README.md
-@@ -1,59 +1,266 @@
+
 -#  Swiggy Delivery Time Prediction
 -
 -This project helps predict how long a food delivery might take, using real data from Swiggy orders.
