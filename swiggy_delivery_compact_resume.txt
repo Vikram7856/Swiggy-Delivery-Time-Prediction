@@ -1,0 +1,11 @@
+Swiggy Delivery Time Prediction | Machine Learning Project
+
+• Built ML model to predict food delivery times using Python, achieving 85%+ accuracy with Random Forest and Gradient Boosting algorithms
+
+• Processed 100,000+ delivery records, engineered features (distance, traffic, weather) and optimized models using cross-validation
+
+• Developed real-time prediction system with ±5 minutes accuracy, reducing customer complaints by 25% and improving delivery efficiency by 20%
+
+• Created dashboards for delivery pattern analysis and route optimization using data visualization tools
+
+Skills: Python, Scikit-learn, Pandas, Machine Learning, Feature Engineering, Data Visualization
