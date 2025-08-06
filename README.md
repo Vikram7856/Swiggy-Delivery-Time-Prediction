@@ -52,7 +52,6 @@
 
 ### **Model Performance**
 - ✅ **Accuracy**: 80%+ prediction accuracy (R² Score > 0.80)
-- ✅ **Speed**: Sub-second prediction latency for real-time deployment
 - ✅ **Scale**: Successfully processes 45,073 orders with 19 engineered features
 - ✅ **Robustness**: 5-fold cross-validation with temporal stratification
 
